@@ -25,7 +25,7 @@ A simple clone of the Microsoft Clipchamp application (can be found on Microsoft
 | Operating System | Windows 7 with Service Pack 1 Update (32-bit) | Windows 8/8.1 (64-bit) | Windows 10 or Windows 11 (64-bit) |
 | Internet connection | Internet connection is required as Clipchamp is a cloud app, You will need an active internet connection with a speed of 5,000 Kbit/s (0.625 MB/s) or faster | an active internet connection with a speed of 100,000 Kbit/s (12.5 MB/s) or faster | a high-speed internet connection with a speed of 1,000,000 Kbit/s (125 MB/s) or faster |
 
-***These system requirements aren't official, but an estimated numbers according to the requirements of Windows 11 and the tests of Chromium web engine on many PCs***
+***These system requirements aren't official, but an estimated numbers according to the requirements of Windows 11 and the personal tests of Chromium web engine on many PCs***
 
 ## Downloads
 **Downloads will be available as soon as I finish working on this program.**
